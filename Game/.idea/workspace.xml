@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06958e3a-396f-422e-9d1c-50b00ca1236f" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/lib/src.zip!/java.base/java/time/chrono/AbstractChronology.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/lib/src.zip!/java.base/java/util/AbstractCollection.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/lib/src.zip!/java.base/java/util/EventListener.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/lib/src.zip!/java.desktop/java/awt/Checkbox.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-19.0.2/Contents/Home/lib/src.zip!/java.desktop/java/awt/event/ItemEvent.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NHH7FRttJO6H13JenMxjIsV2Zf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itwubo.ui.Test" />
+      <module name="Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itwubo.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.test1" />
+      <module name="Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="06958e3a-396f-422e-9d1c-50b00ca1236f" name="变更" comment="" />
+      <created>1679313917215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679313917215</updated>
+      <workItem from="1679313918264" duration="990000" />
+      <workItem from="1679394833684" duration="6418000" />
+      <workItem from="1679651114434" duration="11218000" />
+      <workItem from="1679800779379" duration="1033000" />
+      <workItem from="1680262877861" duration="390000" />
+      <workItem from="1680272646597" duration="217000" />
+      <workItem from="1680272884601" duration="223000" />
+      <workItem from="1681205344022" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
