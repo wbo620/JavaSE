@@ -1,0 +1,4 @@
+name=张三
+gender=男
+age=34
+adress=北京
